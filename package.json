@@ -1,0 +1,23 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "Webpage coded for web dev bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcsanchez/Yelp-Camp.git"
+  },
+  "author": "Francisco Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcsanchez/Yelp-Camp/issues"
+  },
+  "homepage": "https://github.com/pcsanchez/Yelp-Camp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
